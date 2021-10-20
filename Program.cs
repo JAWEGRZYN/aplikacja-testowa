@@ -1,2 +1,4 @@
 public class Program {
-public static void Main(String[] args)}
+public static void Main(String[] args)
+		Console.WriteLine("Ala ma kota");
+}
